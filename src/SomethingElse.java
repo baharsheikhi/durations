@@ -5,5 +5,6 @@ public class SomethingElse {
 
     public int field;
     public int test2;
+    public int testComp;
 
 }
